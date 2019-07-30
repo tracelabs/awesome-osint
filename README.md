@@ -19,5 +19,4 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 *Tools for performing username and profile searches on popular social media platforms*
 
-* [CheckUserNames.com](https://checkusernames.com/) - Username search on the web
 * [Sherlock](https://github.com/sherlock-project/sherlockI) - Command line tool to search usernames across social networks
