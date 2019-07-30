@@ -21,4 +21,4 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 *Tools for performing username and profile searches on popular social media platforms*
 
-* [Sherlock](https://github.com/sherlock-project/sherlockI) - Command line tool to search usernames across social networks
+* [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
