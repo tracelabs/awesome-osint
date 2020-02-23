@@ -15,12 +15,17 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 ### Contents
 
+- [Multi Search](#multi-search)
 - [Social Media Search](#social-media-search)
+
+## Multi Search
+
+*Tools that perform searches over a number of different sources including social media, domain and IP, Phone Numbers, etc.
+* [Spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target.
+* [Maltego](https://www.maltego.com) - Maltego focuses on providing a library of transforms for discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining.
 
 ## Social Media Search
 
 *Tools for performing username and profile searches on popular social media platforms*
 
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
-* [Spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target.
-* [Maltego](https://www.maltego.com) - Maltego focuses on providing a library of transforms for discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining.
