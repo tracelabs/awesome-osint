@@ -19,6 +19,12 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 - [Multi Search](#multi-search)
 - [Social Media Search](#social-media-search)
 
+## Email Search
+
+*Tools for performing email searches via social media, breach info and other sources*
+
+* [Buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
+
 ## Multi Search
 
 *Tools that perform searches over a number of different sources including social media, domain and IP, Phone Numbers, etc.*
@@ -32,8 +38,3 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
 
-## Email Search
-
-*Tools for performing email searches via social media, breach info and other sources*
-
-* [Buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
