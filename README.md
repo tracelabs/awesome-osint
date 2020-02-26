@@ -4,7 +4,7 @@ A [TraceLabs](https://tracelabs.org) endorsed list of awesome OSINT frameworks, 
 
 Note that there are great OSINT tools out there, but this list consists of tools that apply specifically to missing-persons searches.
 
-Join us on Slack!<br>[<img src="https://img.shields.io/badge/slack-@tracelabs-red.svg?logo=slack">](https://join.slack.com/t/tracelabs/shared_invite/enQtNjUyMDAxOTc0ODg3LWFiYTVlYjNiZmFiNTk5OGE0MjMxMDQ2YzdjZGEwOThiZTVhNTc1MjUzZjllY2JmMjVjYWQ4YzMyZjZkYmU1YmU)
+Join us on Slack!<br>[<img src="https://img.shields.io/badge/slack-@tracelabs-red.svg?logo=slack">](https://tracelabs.slack.com/join/shared_invite/enQtNzMzNTA5MTA3MjA3LTFlODQ5YmIyNmIyMDZmODAyZjQwN2YxMzFiMzcyZGFmYmY0MjhiMjUyMjU3OGRkMDRmNTFhZGI1MTE4YjBkNzY)
 
 
 ### Contributing
