@@ -32,9 +32,12 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 * [Maltego](https://www.maltego.com) - Maltego focuses on providing a library of transforms for discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining
 * [Spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
 
-## Social Media Search
+## Social Media
 
-*Tools for performing username and profile searches on popular social media platforms*
+*Tools for gathering OSINT from popular social media platforms*
 
+* [Instaloader](https://instaloader.github.io/) - Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
+* [Twint](https://github.com/twintproject/twint) - Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API
+
 
