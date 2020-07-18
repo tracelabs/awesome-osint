@@ -34,7 +34,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 ## Social Media
 
-*Tools for OSINT from popular social media platforms*
+*Tools for gathering OSINT from popular social media platforms*
 
 * [Instaloader](https://instaloader.github.io/) - Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Command line tool to search usernames across social networks
