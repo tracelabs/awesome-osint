@@ -29,6 +29,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 *Tools that perform searches over a number of different sources including social media, domain and IP, Phone Numbers, etc*
 
+* [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 * [Maltego](https://www.maltego.com) - Maltego focuses on providing a library of transforms for discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining
 * [Spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates the collection of OSINT to find everything possible about a target
 
