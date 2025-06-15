@@ -24,6 +24,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for performing email searches via social media, breach info and other sources*
 
 * [Buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
+* [TraceFind](https://tracefind.info) - Powerful OSINT tool for gathering detailed information linked to email addresses.
 
 ## Multi Search
 
