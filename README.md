@@ -87,7 +87,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [GoWitness](https://github.com/sensepost/gowitness) – CLI tool to take screenshots of web pages for evidence collection.  
 - [Wayback Machine](https://archive.org/web/) – Browse historical snapshots of websites.  
-- [Archive.today](https://archive.ph/) – Save and retrieve archived versions of web pages.  
+
 
 ---
 
