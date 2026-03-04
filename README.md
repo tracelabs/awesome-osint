@@ -97,8 +97,9 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🌍 Geolocation & Mapping
 *Resources for geolocation and map-based OSINT.*  
 
-- [Google Maps](https://maps.google.com/) – Street view and satellite imagery.  
-- [Mapillary](https://www.mapillary.com/) – Crowdsourced street-level imagery.  
+- [GeoInfer](https://geoinfer.com) – AI-powered image geolocation tool that predicts the geographic location of a photo using deep learning.
+- [Google Maps](https://maps.google.com/) – Street view and satellite imagery.
+- [Mapillary](https://www.mapillary.com/) – Crowdsourced street-level imagery.
 
 ---
 
