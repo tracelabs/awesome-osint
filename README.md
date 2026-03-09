@@ -61,6 +61,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for gathering OSINT from popular social media platforms.*  
 
 - [Instaloader](https://instaloader.github.io/) – Download Instagram photos, videos, captions, and metadata.  
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) – X/Twitter OSINT platform — user lookup, follower extraction, engagement analysis, account monitoring, 20 extraction tools.
 
 ---
 
