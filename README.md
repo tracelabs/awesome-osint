@@ -89,7 +89,8 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools to preserve findings during an investigation.*  
 
 - [GoWitness](https://github.com/sensepost/gowitness) – CLI tool to take screenshots of web pages for evidence collection.  
-- [Wayback Machine](https://archive.org/web/) – Browse historical snapshots of websites.  
+- [Wayback Machine](https://archive.org/web/) – Browse historical snapshots of websites.
+- [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) – Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 
 
 ---
