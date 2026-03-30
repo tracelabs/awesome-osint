@@ -43,7 +43,8 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools that perform searches over multiple sources (social media, domains, IPs, phone numbers, etc).*  
 
 - [Maltego](https://www.maltego.com) – Provides a library of transforms for OSINT discovery and visualizes information in graph format for link analysis.  
-- [SpiderFoot](https://github.com/smicallef/spiderfoot) – Automates the collection of OSINT to find everything possible about a target.  
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) – Automates the collection of OSINT to find everything possible about a target.
+- [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=tracelabs_awesome_osint) – AI-Powered OSINT at Lightspeed.
 
 ---
 
