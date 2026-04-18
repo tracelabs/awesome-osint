@@ -89,6 +89,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools to preserve findings during an investigation.*  
 
 - [GoWitness](https://github.com/sensepost/gowitness) – CLI tool to take screenshots of web pages for evidence collection.  
+- [Snaplert](https://snaplert.com/) – Monitor websites for changes with visual diffs and AI summaries; useful for tracking target pages over time during investigations.
 - [Wayback Machine](https://archive.org/web/) – Browse historical snapshots of websites.  
 
 
