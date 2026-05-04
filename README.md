@@ -35,7 +35,8 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for performing email searches via social media, breach info, and other sources.*  
 
 - [Buster](https://github.com/sham00n/buster) – Advanced tool for email reconnaissance.  
-- [Have I Been Pwned](https://haveibeenpwned.com/) – Check if an email address has been exposed in a data breach.  
+- [Have I Been Pwned](https://haveibeenpwned.com/) – Check if an email address has been exposed in a data breach.
+- [OsintCat](https://www.osintcat.net/) – Check if an email address has been exposed in known data breaches. Covers multiple breach databases with a web interface and an API.  
 
 ---
 
