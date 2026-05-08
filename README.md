@@ -61,6 +61,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for gathering OSINT from popular social media platforms.*  
 
 - [Instaloader](https://instaloader.github.io/) – Download Instagram photos, videos, captions, and metadata.  
+- [InstaPV](https://www.instapv.ai/) – Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines (no login, no password, no trace).  
 
 ---
 
