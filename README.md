@@ -4,7 +4,8 @@ A [TraceLabs](https://tracelabs.org) endorsed list of awesome OSINT frameworks, 
 
 Note that there are great OSINT tools out there, but this list consists of tools that apply specifically to missing-persons searches.
 
-> **Tool Scope:** This list only includes free and freely accessible tools. Paid or commercial tools are not eligible for inclusion at this time.
+### Tool Scope
+This list only includes free and freely accessible tools. Paid or commercial tools are not eligible for inclusion at this time.
 
 Join us on Discord!<br>[<img src="https://img.shields.io/badge/Discord-%40TraceLabs-teal">](https://tracelabs.org/discord)
 
