@@ -99,7 +99,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Google Maps](https://maps.google.com/) – Street view and satellite imagery.  
 - [Mapillary](https://www.mapillary.com/) – Crowdsourced street-level imagery.  
-- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) – OSINT dashboard for vessel tracking, airspace activity, and satellite-based maritime detections.  
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) – Maritime and airspace intelligence dashboard with real-time AIS vessel tracking, sanctions and anomaly monitoring, and satellite cross-referencing.  
 
 ---
 
