@@ -50,6 +50,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🆔 Username Search
 *Tools to check username availability across multiple platforms.*  
 
+- [Lullar](https://com.lullar.com/) – Web-based lookup of social profiles by username, email, or name across 175+ sites.  
 - [WhatsMyName](https://whatsmyname.app/) – Search usernames across hundreds of websites.  
 - [Sherlock](https://github.com/sherlock-project/sherlock) – Search usernames across social networks from the command line.  
 
