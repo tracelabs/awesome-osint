@@ -105,8 +105,9 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🌐 Domain/IP/Infrastructure
 *Search engines and tools for investigating internet infrastructure.*  
 
-- [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.  
 - [Censys](https://censys.com/) – Internet-wide scanning and intelligence platform.  
+- [DomScan](https://domscan.net/tools/security) – Investigates domains through DNS, WHOIS/RDAP, TLS, subdomain, reputation, redirect, and typosquatting data.
+- [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.
 
 ---
 
