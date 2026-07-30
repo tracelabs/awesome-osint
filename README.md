@@ -50,10 +50,8 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🆔 Username Search
 *Tools to check username availability across multiple platforms.*  
 
-- [WhatsMyName](https://whatsmyname.app/) – Search usernames across hundreds of websites.  
 - [Sherlock](https://github.com/sherlock-project/sherlock) – Search usernames across social networks from the command line.  
-
-- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) – Browser extension that captures full web page screens and videos 
+- [WhatsMyName](https://whatsmyname.app/) – Search usernames across hundreds of websites.
 
 ---
 
@@ -88,6 +86,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 📝 Documentation & Capture
 *Tools to preserve findings during an investigation.*  
 
+- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) – Browser extension that captures full web page screens and videos.
 - [GoWitness](https://github.com/sensepost/gowitness) – CLI tool to take screenshots of web pages for evidence collection.  
 - [Wayback Machine](https://archive.org/web/) – Browse historical snapshots of websites.  
 
