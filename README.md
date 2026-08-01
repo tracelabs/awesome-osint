@@ -42,6 +42,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🔍 Multi Search
 *Tools that perform searches over multiple sources (social media, domains, IPs, phone numbers, etc).*  
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [Maltego](https://www.maltego.com) – Provides a library of transforms for OSINT discovery and visualizes information in graph format for link analysis.  
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) – Automates the collection of OSINT to find everything possible about a target.  
 
