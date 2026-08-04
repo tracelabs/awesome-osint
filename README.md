@@ -76,13 +76,13 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🖼️ Images & Video Analysis
 *Tools for reverse image search, metadata extraction, and video analysis.*  
 
-- [Google Images](https://images.google.com/) – Reverse image search.  
-- [Yandex Images](https://yandex.com/images/) – Alternative reverse image search with strong face-recognition capabilities.
-- [Surfface](https://surfface.com/) – Face search and people finder that indexes social profiles and other public media.
 - [ExifTool](https://exiftool.org/) – Extract metadata (EXIF, GPS, timestamps) from photos and videos.  
+- [FFmpeg](https://ffmpeg.org/) – Multimedia framework for extracting and processing video/audio.  
+- [Google Images](https://images.google.com/) – Reverse image search.  
 - [Jimpl EXIF Viewer](https://jimpl.com/) – Simple online tool for checking image metadata (no install required).  
 - [Metadata Remover](https://metadataremover.ai/metadata-viewer) – Browser-local image metadata viewer for EXIF, GPS, XMP, IPTC, and supported AI fields; no uploads or account required.  
-- [FFmpeg](https://ffmpeg.org/) – Multimedia framework for extracting and processing video/audio.  
+- [Surfface](https://surfface.com/) – Face search and people finder that indexes social profiles and other public media.
+- [Yandex Images](https://yandex.com/images/) – Alternative reverse image search with strong face-recognition capabilities.
 
 ---
 
