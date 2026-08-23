@@ -22,6 +22,7 @@ If you removed our PR template you can find it [here](https://github.com/tracela
 
 To be on the list, project repositories should adhere to these quality standards:
 
+- Free and accessible – Only free and freely accessible tools are eligible. Paid or commercial tools are not accepted.
 - Code functions as documented and expected
 - Generally useful to the wider community of programmers and OSINT professionals
 - Actively maintained
