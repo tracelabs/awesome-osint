@@ -54,18 +54,18 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🆔 Username Search
 *Tools to check username availability across multiple platforms.*  
 
-- [WhatsMyName](https://whatsmyname.app/) - Search usernames across hundreds of websites.  
+- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) – Browser extension that captures full web page screens and videos.  
+- [Maigret](https://github.com/soxoj/maigret) – Collects a dossier on a person by username, searching across 3000+ sites.  
 - [Sherlock](https://github.com/sherlock-project/sherlock) – Search usernames across social networks from the command line.  
-- [Maigret](https://github.com/soxoj/maigret) - Collects a dossier on a person by username, searching across 3000+ sites.  
-- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) – Browser extension that captures full web page screens and videos. 
+- [WhatsMyName](https://whatsmyname.app/) – Search usernames across hundreds of websites.  
 
 ---
 
 ## 📱 Social Media
 *Tools for gathering OSINT from popular social media platforms.*  
 
+- [GHunt](https://github.com/mxrch/ghunt) – Extracts information tied to a Google account, such as Maps reviews and Google Photos.  
 - [Instaloader](https://instaloader.github.io/) – Download Instagram photos, videos, captions, and metadata.  
-- [GHunt](https://github.com/mxrch/ghunt) - Extracts information tied to a Google account, such as Maps reviews and Google Photos.  
 
 ---
 
@@ -94,9 +94,9 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools to preserve findings during an investigation.*  
 
 - [GoWitness](https://github.com/sensepost/gowitness) – CLI tool to take screenshots of web pages for evidence collection.  
+- [Metagoofil](https://github.com/opsdisk/metagoofil) – Pulls docs from a domain and extracts metadata.  
+- [Owlculus](https://github.com/be0vlk/owlculus) – Case-management platform, purpose-built for OSINT investigations.  
 - [Wayback Machine](https://archive.org/web/) – Browse historical snapshots of websites.  
-- [Metagoofil](https://github.com/opsdisk/metagoofil) – Pulls docs from a domain and extracts metadata.
-- [Owlculus](https://github.com/be0vlk/owlculus) – Case-management platform, purpose-built for OSINT investigations.
 
 ---
 
