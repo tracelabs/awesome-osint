@@ -56,7 +56,9 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 - [WhatsMyName](https://whatsmyname.app/) – Search usernames across hundreds of websites.  
 - [Sherlock](https://github.com/sherlock-project/sherlock) – Search usernames across social networks from the command line.  
 
-- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) – Browser extension that captures full web page screens and videos 
+- [Forensic OSINT Full Page Screen Capture](https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn) – Browser extension that captures full web page screens and videos
+
+- [WhatsMyName App](https://whatsmynameapp.us/tools/whatsmyname-app) - Searches 732 platforms simultaneously for a username. Browser-based, no install required, real-time results with direct profile links and CSV export.
 
 ---
 
