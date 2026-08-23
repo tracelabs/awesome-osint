@@ -72,6 +72,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) – Information gathering framework for phone numbers.  
 - [Truecaller](https://www.truecaller.com/) – Caller ID and spam lookup service (commercial).  
+- [CheckLeaked WhatsApp OSINT](https://whatsapp.checkleaked.cc) – Look up a WhatsApp number's profile photo, About/status text, and Business account details without saving the contact; free web tool + API.  
 
 ---
 
