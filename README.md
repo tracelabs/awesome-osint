@@ -102,6 +102,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Google Maps](https://maps.google.com/) – Street view and satellite imagery.  
 - [Mapillary](https://www.mapillary.com/) – Crowdsourced street-level imagery.  
+- [Crime Brasil](https://crimebrasil.com.br) – Brazilian open crime-data platform with bairro-level geocoded incidents (2.99M RS records, MG/RJ aggregates, PRF accidents). Free public API + map UI for geolocation-based investigations.  
 
 ---
 
