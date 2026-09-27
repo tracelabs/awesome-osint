@@ -110,6 +110,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.  
 - [Censys](https://censys.com/) – Internet-wide scanning and intelligence platform.  
+- [pureip.app](https://pureip.app/) – Free IP analysis toolkit: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, blacklist status, and per-provider AI service availability checks (ChatGPT/Claude/Gemini).  
 
 ---
 
