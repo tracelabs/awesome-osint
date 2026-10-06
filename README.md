@@ -116,6 +116,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 📡 Wireless
 *Tools for wireless network mapping and signals intelligence.*  
 
+- [warmap](https://github.com/munzzyy/warmap) – Desktop map for Marauder and WiGLE wardriving captures, with an ALPR camera overlay.  
 - [WiGLE](https://wigle.net/) – Wireless network mapping database.  
 
 ---
