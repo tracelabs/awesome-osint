@@ -80,6 +80,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for reverse image search, metadata extraction, and video analysis.*  
 
 - [Google Images](https://images.google.com/) – Reverse image search.  
+- [Reverse Image Search Anywhere](https://reverseimage.app/) – Free browser extension and web tool that checks Google Lens, Yandex, Bing Visual, and TinEye; region capture helps search images embedded on social sites.
 - [Yandex Images](https://yandex.com/images/) – Alternative reverse image search with strong face-recognition capabilities.
 - [Surfface](https://surfface.com/) – Face search and people finder that indexes social profiles and other public media.
 - [ExifTool](https://exiftool.org/) – Extract metadata (EXIF, GPS, timestamps) from photos and videos.  
