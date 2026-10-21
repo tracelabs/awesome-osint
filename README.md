@@ -37,8 +37,10 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 📧 Email Search
 *Tools for performing email searches via social media, breach info, and other sources.*  
 
+- [Breach House](https://breach.house/) – Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email.  
 - [Buster](https://github.com/sham00n/buster) – Advanced tool for email reconnaissance.  
 - [Have I Been Pwned](https://haveibeenpwned.com/) – Check if an email address has been exposed in a data breach.  
+- [Have I Been Ransomed?](https://haveibeenransom.com/) – Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches.  
 
 ---
 
