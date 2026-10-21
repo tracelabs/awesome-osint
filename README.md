@@ -84,6 +84,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 - [Surfface](https://surfface.com/) – Face search and people finder that indexes social profiles and other public media.
 - [ExifTool](https://exiftool.org/) – Extract metadata (EXIF, GPS, timestamps) from photos and videos.  
 - [Jimpl EXIF Viewer](https://jimpl.com/) – Simple online tool for checking image metadata (no install required).  
+- [isGenAI](https://isgenai.com/) – Free online check for C2PA Content Credentials, AI-generated labels and saved AI prompts in images and pages (no account required).
 - [FFmpeg](https://ffmpeg.org/) – Multimedia framework for extracting and processing video/audio.  
 
 ---
