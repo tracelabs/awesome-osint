@@ -38,6 +38,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for performing email searches via social media, breach info, and other sources.*  
 
 - [Buster](https://github.com/sham00n/buster) – Advanced tool for email reconnaissance.  
+- [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) – Self-hosted personal exposure checker that searches 18 keyless breach sources for email, username, phone, and password leaks.  
 - [Have I Been Pwned](https://haveibeenpwned.com/) – Check if an email address has been exposed in a data breach.  
 
 ---
