@@ -110,6 +110,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.  
 - [Censys](https://censys.com/) – Internet-wide scanning and intelligence platform.  
+- [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) – Free check of suspicious crypto URLs, messages and wallet or token addresses against public threat feeds; no sign-up.  
 
 ---
 
