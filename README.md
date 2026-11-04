@@ -46,6 +46,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools that perform searches over multiple sources (social media, domains, IPs, phone numbers, etc).*  
 
 - [Maltego](https://www.maltego.com) – Provides a library of transforms for OSINT discovery and visualizes information in graph format for link analysis.  
+- [Max Intel Pivot Hub](https://maxintel.org/pivot-hub.html) – Sends one email, username, phone number, domain or IP to dozens of free lookup tools at once, from the browser.  
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) – Automates the collection of OSINT to find everything possible about a target.  
 
 ---
