@@ -64,6 +64,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 *Tools for gathering OSINT from popular social media platforms.*  
 
 - [Instaloader](https://instaloader.github.io/) – Download Instagram photos, videos, captions, and metadata.  
+- [SnapDataHub](https://snapdatahub.com/) – Look up public Snapchat profiles: profile details, Spotlight performance and engagement metrics.  
 
 ---
 
