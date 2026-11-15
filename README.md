@@ -100,7 +100,8 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🌍 Geolocation & Mapping
 *Resources for geolocation and map-based OSINT.*  
 
-- [Google Maps](https://maps.google.com/) – Street view and satellite imagery.  
+- [Google Maps](https://maps.google.com/) – Street view and satellite imagery.
+- [Kithcode Missing Persons Map](https://map.kithcode.org) - Interactive geobrowser, search, and sharing tool, aggregating missing persons cases from NamUs, FBI, and The Charley Project.
 - [Mapillary](https://www.mapillary.com/) – Crowdsourced street-level imagery.  
 
 ---
