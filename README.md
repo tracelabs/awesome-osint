@@ -53,6 +53,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🆔 Username Search
 *Tools to check username availability across multiple platforms.*  
 
+- [FreeUsername](https://freeusername.com/) – Search a username across 3,450+ sites in the browser, reporting blocked and unknown checks separately from confirmed hits.
 - [WhatsMyName](https://whatsmyname.app/) – Search usernames across hundreds of websites.  
 - [Sherlock](https://github.com/sherlock-project/sherlock) – Search usernames across social networks from the command line.  
 
