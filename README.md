@@ -108,6 +108,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 ## 🌐 Domain/IP/Infrastructure
 *Search engines and tools for investigating internet infrastructure.*  
 
+- [BrandShield](https://brand-checker.appwrite.network) – Read-only 78-TLD DNS/RDAP, 28-variant typosquatting, and developer/social handle OSINT checker.  
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.  
 - [Censys](https://censys.com/) – Internet-wide scanning and intelligence platform.  
 
