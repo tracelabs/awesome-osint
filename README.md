@@ -110,6 +110,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.  
 - [Censys](https://censys.com/) – Internet-wide scanning and intelligence platform.  
+- [BrandShield](https://brand-checker.appwrite.network) – 100% free direct IANA RDAP domain availability (78+ TLDs), 28-variant typosquatting/lookalike RDAP & MX lookup, and live USPTO trademark search with no login or paywall.  
 
 ---
 
