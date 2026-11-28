@@ -5,6 +5,8 @@ A [TraceLabs](https://tracelabs.org) endorsed list of awesome OSINT frameworks, 
 Note that there are great OSINT tools out there, but this list consists of tools that apply specifically to missing-persons searches.
 
 ### Tool Scope
+
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 This list only includes free and freely accessible tools. Paid or commercial tools are not eligible for inclusion at this time.
 
 Join us on Discord!<br>[<img src="https://img.shields.io/badge/Discord-%40TraceLabs-teal">](https://tracelabs.org/discord)
